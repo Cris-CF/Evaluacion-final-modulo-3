@@ -1,5 +1,28 @@
 # Technical Exercise - Module 3
 
+## Project Description
+
+This project focuses on analyzing customer behavior within an airline loyalty program. Through data exploration and cleaning, we aim to better understand their flight patterns, the accumulation and use of points, as well as their demographic characteristics. The datasets we worked with are the CSV files named “Customer Flight Activity” and “Customer Loyalty History.”
+
+
+## Analysis Phases
+
+### 1. Data Exploration
+Begining with an initial review of the available data, which includes customer flight information and their history within the loyalty program. During this phase, after merging the two data sources, we performed an Exploratory Data Analysis (EDA) to detect potential inconsistencies, missing values, duplicates, and general patterns in the information.
+
+### 2. Data Cleaning
+To ensure the quality of the analysis, we carried out a data cleaning process, handling missing or duplicate values and adjusting data formats. This allowed us to work with more complete, consistent, and clean data. Handling duplicates and missing values was undoubtedly the most time-consuming task in the entire project, as decisions had to be made on how to treat this data. As instructed by the airline, all data points were considered important for the subsequent analysis.
+
+### 3. Analysis and Visualization
+Once the data was cleaned, we addressed the questions outlined in the “enunciado-evaluacion-final-modulo3” PDF. These questions helped identify potential positive relationships, data correlations, and insights into customer purchasing habits. We used various graphical tools depending on the type of data being analyzed to represent the information clearly and comprehensibly. The goal of visualization was to better identify trends or patterns, making it easier to interpret the results.
+
+### 4. Statistical Testing
+As an additional phase, we were asked to conduct a descriptive analysis and a statistical test to determine whether there were significant differences between the number of flights booked and customers’ education levels. This analysis provided deeper insights into the relationship between flight bookings and different education levels by comparing groups in pairs. After completing the analysis, we provided the airline with recommendations for potential future studies that could be valuable.
+
+--------------------------------------------------------------------------------------
+
+# Ejercicio Técnico - Modulo 3
+
 ## Descripción del Proyecto
 
 Este proyecto se centra en el análisis del comportamiento de los clientes dentro de un programa de lealtad de una aerolínea. A través de la exploración y limpieza de datos, buscamos comprender mejor sus patrones de vuelo, la acumulación y el uso de puntos, así como sus características demográficas.  Los archivos sobre los que hemos trabajados son los CSVs llamados “Customer Flight Activity” y “Customer Loyalty History”.
@@ -19,4 +42,3 @@ Utilizamos diferentes herramientas gráficas según el tipo de dato que estábam
 
 ### 4. Prueba Estadística
 Nos pidieron como fase extra, explorar con un análisis descriptivo y una prueba de estadística si existían diferencias significativas entre la cantidad de vuelos reservados y el nivel educativo de los clientes. Este análisis nos ayudó a conocer mejor la relación entre las reservas de vuelos y los distintos niveles educativos comparando por pares de grupos. Tras el análisis se asesora a la aerolínea sobre posibles futuros análisis que podrían ser interesantes.
-
