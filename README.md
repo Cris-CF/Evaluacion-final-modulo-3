@@ -42,5 +42,3 @@ Utilizamos diferentes herramientas gráficas según el tipo de dato que estábam
 
 ### 4. Prueba Estadística 🧪
 Nos pidieron como fase extra, explorar con un análisis descriptivo y una prueba de estadística si existían diferencias significativas entre la cantidad de vuelos reservados y el nivel educativo de los clientes. Este análisis nos ayudó a conocer mejor la relación entre las reservas de vuelos y los distintos niveles educativos comparando por pares de grupos. Tras el análisis se asesora a la aerolínea sobre posibles futuros análisis que podrían ser interesantes.
-
-Thank you for reaching this point
